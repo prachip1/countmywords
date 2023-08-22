@@ -1,0 +1,11 @@
+{
+    "name": "Countmyowords",
+    "version": "1.0.0",
+    "description": "This extension will count the total number of words without whitespace",
+    "manifest_version":3,
+    "author": "Prachi P",
+    "action":{
+        "default_popup":"index.html",
+        "default_title": "Countmyowords"
+    }
+}
